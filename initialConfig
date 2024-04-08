@@ -1,0 +1,11 @@
+git clone --single-branch -b starter https://...
+
+npm i sass@1.68.0
+
+scroll-snap-type: x y mandatory proximity
+scroll-behaviour: smooth
+scroll-snap-align: start center end
+
+npm i framer-motion@10.16.4
+
+npm i @emailjs/browser
